@@ -1,6 +1,10 @@
 {
   "name": "polymer-scrypt",
   "main": "polymer-scrypt.js",
+  "version": "1.0.0",
+  "author": "@bkawk",
+  "license": "MIT",
+  "repository": "https://github.com/bkawk/polymer-scrypt",
   "dependencies": {
     "@polymer/polymer": "^3.0.0"
   },
